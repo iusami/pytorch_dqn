@@ -10,6 +10,7 @@ Ubuntu 16.04
 
 ## Reference
 http://neuro-educator.com/rl2/
+
 https://elix-tech.github.io/ja/2016/06/29/dqn-ja.html
 
 ## Notice
