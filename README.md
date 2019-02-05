@@ -8,6 +8,9 @@ Ubuntu 16.04
 - Pytorch > 1.0.0
 - OpenAI gym
 
+## Reference
+http://neuro-educator.com/rl2/
+https://elix-tech.github.io/ja/2016/06/29/dqn-ja.html
 
 ## Notice
 **Only CartPole now...**
