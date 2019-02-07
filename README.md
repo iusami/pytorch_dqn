@@ -5,7 +5,7 @@ DQN with pytorch and OpenAI gym
 Ubuntu 16.04
 
 ## Preparation
-- Pytorch > 1.0.0
+- Pytorch > 0.4.0
 - OpenAI gym
 
 ## Reference
